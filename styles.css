@@ -10,3 +10,18 @@
     line-height: 150px;
     font-size: 50px;
 }
+.insertDie {
+    background-color: darkorchid;
+    color: plum;
+    border-radius: 5px;
+}
+.rollDice {
+    background-color: blue;
+    color: aqua;
+    border-radius: 5px;
+}
+.sumDice {
+    background-color: green;
+    color: greenyellow;
+    border-radius: 5px;
+}

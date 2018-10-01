@@ -59,7 +59,7 @@ sumButton.addEventListener('click', getSum);
     });
     let sum = arr2.reduce((a, b) => a + b, 0);
 
-    alert(`Sum of dice is ${sum}!`);
+    alert(`Sum of the dice is ${sum}!`);
 };
 
     
